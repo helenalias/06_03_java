@@ -35,7 +35,7 @@
         <repository>
             <id>github</id>
             <!-- TODO: замените на ваши значнения -->
-            <url>https://maven.pkg.github.com/magnetik86/06_03_java</url>
+            <url>https://maven.pkg.github.com/helenalias/06_03_java</url>
         </repository>
     </distributionManagement>
 </project>
